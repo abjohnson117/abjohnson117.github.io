@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://amath.washington.edu/'>University of Washington</a>
 
 profile:
   align: right
@@ -18,10 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello everyone! Welcome to my website. My name is Alex Johnson, and I am a 2nd year Ph.D. student in Applied Math at the University of Washington.
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hello everyone! Welcome to my website. My name is Alex Johnson, and I am a 2nd year Ph.D. student in Applied Math at the University of Washington. I have the pleasure of being advised by [Sasha Aravkin](https://uw-amo.github.io/saravkin/) with whom I broadly work on problems related to (convex and non-convex) optimization and optimal transport, with applications to machine learning. I am also a graduate student researcher at the [IHME](https://www.healthdata.org/) where I've been working on applying convex optimization techniques to support statistical tools that improve population health estimates.
