@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: <a href='https://amath.washington.edu/'>Department of Applied Mathematics, University of Washington</a>
 
