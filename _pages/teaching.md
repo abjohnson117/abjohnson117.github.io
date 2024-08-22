@@ -1,13 +1,11 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Courses I have either taught or been a TA for (in grad school)
 nav: true
 nav_order: 6
 ---
-
-Courses I have either taught or been a TA for (in grad school):
 
 - **Fall 2022**: Math 125 TA (Calculus II)
 - **Winter 2023**: Math 126 TA (Calculus III)
